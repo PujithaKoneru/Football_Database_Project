@@ -1,6 +1,7 @@
-# mongo-proj
+# Football_Database Project
 
-This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
+This project was built with MongoDB, JQuery, CSS and Javascript. Turbo360 and mlab used for deployment.
+To learn more, click here: https://www.turbo360.co
 
 ## Instructions
 After cloning into repo, cd to project root directory and create a .env file. This file requires a TURBO_APP_ID and SESSION_SECRET keys:
